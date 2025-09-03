@@ -43,8 +43,26 @@
     border-style: solid;
     border-radius: 12px;
 }
+.pf1{
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    right: 0%;
+    top: 25%;
+    color: aliceblue;
+}
 body{
     margin: 0%;
     background-image: url(statics/8.png);
     color: rgb(255, 255, 255);
+}
+.na {
+    text-decoration: none;
+    border-style: solid;
+    border-radius: 100px;
+    border-color: #38818e83;
+    background-color: rgba(248, 57, 223, 0.507);
+    padding: 15px;
+    font-size: 20px;
+    color: aliceblue;
 }
